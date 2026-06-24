@@ -5,7 +5,7 @@ This code intentionally contains multiple security vulnerabilities and bad pract
 
 import hashlib
 import sqlite3
-
+#Este es el comentario de prueba de BOB
 # SECURITY ISSUE: Hardcoded credentials
 DB_PATH = "banking.db"
 ADMIN_PASSWORD = "admin123"  # Hardcoded password
